@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ogre Lowpoly
+* source:	https://sketchfab.com/3d-models/ogre-lowpoly-f483a659d16445c688269e73d1bf19fa
+* author:	hisamroe (https://sketchfab.com/hisamroe)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ogre Lowpoly" (https://sketchfab.com/3d-models/ogre-lowpoly-f483a659d16445c688269e73d1bf19fa) by hisamroe (https://sketchfab.com/hisamroe) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
